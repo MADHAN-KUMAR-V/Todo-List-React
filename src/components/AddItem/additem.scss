@@ -1,0 +1,28 @@
+.additem{
+    margin-top: 20vh;
+    display: flex;
+    justify-content: center;
+
+    form{
+
+        input{
+            height: 50px;
+            width: 300px;
+            padding: 0 1rem;
+            border-radius: 10px;
+            font-size: 1.2rem;
+            border: 1px solid gray;
+        }
+        button{
+            height: 50px;
+            width: 50px;
+            border-radius: 10px;
+            border: none;
+            margin: 0 10px;
+            font-size: 1.3rem;
+            background-color: green;
+            color: white;
+            cursor: pointer;
+        }
+    }
+}
